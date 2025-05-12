@@ -1,13 +1,14 @@
-.fundo-texto {
+.estilo-botao-1,
+.estilo-botao-2 {
+    font-size: 28px;
+    font-family: Helvetica, "Times New Roman", sans-serif;
+}
+
+.estilo-botao-1 {
     background-color: black;
     color: white;
 }
 
-.fundo {
+.estilo-botao-2 {
     background-color: yellow;
-}
-
-.estilo {
-    font-size: 28px;
-    font-family: Helvetica, "Times New Roman", sans-serif;
 }
